@@ -1,3 +1,7 @@
 h1 {
 color: #ffffff;
 }
+
+body {
+background: linear-gradient(0deg, #000000 0%, #333333 100%);
+}
